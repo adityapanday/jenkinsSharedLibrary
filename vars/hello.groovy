@@ -1,3 +1,3 @@
-def hellofunction ()  {
+def hello ()  {
   echo "Hello Doston   "
 }
